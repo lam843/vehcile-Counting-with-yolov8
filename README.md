@@ -1,2 +1,2 @@
-# vehcile-Counting-with-yolov8
-implementing vehcile Counting using yolov8
+# vehicle-Counting-with-yolov8
+implementing vehicle Counting using yolov8
