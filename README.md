@@ -2,8 +2,6 @@
 
 <div align="center">
 
-# vehicle-Counting-with-yolov8
-
   <p>
     <a align="center" href="https://ultralytics.com/yolov8" target="_blank">
       <img width="50%" src="images/banner-yolov8.png"></a>
