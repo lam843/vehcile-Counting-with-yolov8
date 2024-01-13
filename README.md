@@ -1,13 +1,6 @@
 # vehicle-Counting-with-yolov8
 
-<div align="center">
 
-  <p>
-    <a align="center" href="https://ultralytics.com/yolov8" target="_blank">
-      <img width="50%" src="images/banner-yolov8.png"></a>
-  </p>
-
-</div>
 
 ## Introduction
 This repository supply a user-friendly interactive interface for [YOLOv8](https://github.com/ultralytics/ultralytics) with vehicle Tracking and Counting capability. The interface is powered by [Streamlit](https://github.com/streamlit/streamlit).
